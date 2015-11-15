@@ -6,4 +6,4 @@ This code is the result :)
 
 Originally published in: http://alfasin.com/a-simple-calculator-in-ruby/
 
-[![Codacy Badge](https://api.codacy.com/project/badge/grade/79cf3443acbf4b2e9e58e1c62b5b57aa)](https://www.codacy.com/app/alfasin/Simple-Calculator)
+Tested by: [![Codacy Badge](https://api.codacy.com/project/badge/grade/79cf3443acbf4b2e9e58e1c62b5b57aa)](https://www.codacy.com/app/alfasin/Simple-Calculator)
